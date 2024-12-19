@@ -21,8 +21,11 @@
   <a href="mailto:djason.chery@yahoo.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+33695072078">
+  <a href="tel:+33758204726">
     <img src="https://img.shields.io/badge/Call%20Me-%2352616b?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://wa.me/33758204726" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -76,7 +79,7 @@
 I am based in Paris and available for both remote and on-site work (up to 90 km).
 
 - **Email:** [djason.chery@yahoo.com](mailto:djason.chery@yahoo.com)  
-- **Phone:** [06 95 07 20 78](tel:+33695072078)  
+- **Phone:** [07 58 20 47 26](tel:+33758204726)  
 
 ---
 
