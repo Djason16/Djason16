@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/djason-chery-3b87702b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+    <a href="https://www.malt.com/profile/djasonchery" target="_blank">
+    <img src="https://img.shields.io/badge/Malt-%23FF6F61?style=for-the-badge&logo=malt&logoColor=%23FFFFFF" alt="Malt" />
+  </a>
   <a href="mailto:djason.chery@yahoo.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
