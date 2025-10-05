@@ -79,7 +79,7 @@
 
 ## 📍 Location and Availability:
 
-I am based in Paris and available for both remote and on-site work (up to 90 km).
+I am based in Thourotte and available for both remote and on-site work (up to 90 km).
 
 - **Email:** [contact@djason-chery.dev](mailto:contact@djason-chery.dev)  
 - **Phone:** [07 58 20 47 26](tel:+33758204726)  
