@@ -21,7 +21,7 @@
     <a href="https://www.malt.com/profile/djasonchery" target="_blank">
     <img src="https://img.shields.io/badge/Malt-%23FF6F61?style=for-the-badge&logo=malt&logoColor=%23FFFFFF" alt="Malt" />
   </a>
-  <a href="mailto:djason.chery@yahoo.com">
+  <a href="mailto:contact@djason-chery.dev">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="tel:+33758204726">
@@ -81,7 +81,7 @@
 
 I am based in Paris and available for both remote and on-site work (up to 90 km).
 
-- **Email:** [djason.chery@yahoo.com](mailto:djason.chery@yahoo.com)  
+- **Email:** [contact@djason-chery.dev](mailto:contact@djason-chery.dev)  
 - **Phone:** [07 58 20 47 26](tel:+33758204726)  
 
 ---
