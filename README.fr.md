@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Djason16/djason-cv/master/app/public/images/main_logo_dark.png" alt="Djason Chery" width="380" />
+  <img src="https://raw.githubusercontent.com/Djason16/djason-cv/master/frontend/public/images/main_logo_dark.png" alt="Djason Chery" width="380" />
 </p>
 
 <h3 align="center">Développeur web full-stack · Monteur compositing & VFX</h3>
@@ -49,7 +49,7 @@
       <p>Mon portfolio et mon outil de gestion freelance dans une seule application : site bilingue optimisé pour le SEO, espace admin avec clients, missions, devis, factures et contrats en PDF, et paiements Stripe.</p>
       <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
       <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
     </td>
   </tr>
