@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Djason16/djason-cv/master/frontend/public/images/main_logo_dark.png" alt="Djason Chery" width="380" />
+  <img src="https://raw.githubusercontent.com/Djason16/dc-portfolio/master/frontend/public/images/main_logo_dark.png" alt="Djason Chery" width="380" />
 </p>
 
 <h3 align="center">Full-stack web developer · Compositing & VFX editor</h3>
@@ -26,7 +26,8 @@
 ## 👋 About me
 
 - 💻 I build **websites and web apps** end to end: design, front end, API, database, payments, SEO and hosting
-- 🧰 I made **[DC Scaffold](https://github.com/Djason16/dc-scaffold)**, a tool that creates a complete web project with the front end and back end of your choice in a few minutes
+- 🧰 I made **[DC Scaffold](https://github.com/Djason16/dc-scaffold)**, a tool that creates a complete web project with the front end and back end of your choice in a few minutes, on Windows, macOS and Linux
+- 📨 And **[DC Prospect](https://github.com/Djason16/dc-prospect)**, a desktop app that finds local businesses and runs my e-mail prospecting, written by a built-in AI and sent only after my approval
 - 🎬 I also work in **audiovisual post-production**: editing, compositing, visual effects, motion design
 - 📫 Open to freelance missions: **[contact@djason-chery.dev](mailto:contact@djason-chery.dev)**
 
@@ -38,19 +39,32 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Djason16/dc-scaffold">DC Scaffold</a></h3>
-      <p>Windows app that creates a ready-to-code web project: 12 front ends, 10 back ends, MySQL or SQLite. It installs what is missing, wires everything together and documents every file.</p>
+      <p>Desktop app for Windows, macOS and Linux that creates a ready-to-code web project: 12 front ends, 10 back ends, MySQL or SQLite. It installs what is missing, wires everything together and documents every file.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-111417?style=flat-square" alt="Windows, macOS, Linux" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Djason16/djason-cv">djason-chery.dev</a></h3>
+      <h3><a href="https://github.com/Djason16/dc-portfolio">DC Portfolio</a></h3>
       <p>My portfolio and freelance back office in one app: SEO-ready site in French and English, private admin with clients, missions, PDF quotes, invoices and contracts, and Stripe payments.</p>
       <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
       <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/Djason16/dc-prospect">DC Prospect</a></h3>
+      <p>Desktop app for Windows, macOS and Linux that does e-mail prospecting for freelancers and small businesses: it finds local businesses, checks their website, writes each e-mail with a free built-in AI (or Gemini, or Claude), sends it at the right time once approved, follows up and reads the replies.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Local%20AI-111417?style=flat-square" alt="Local AI" />
+      <img src="https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-111417?style=flat-square" alt="Windows, macOS, Linux" />
     </td>
   </tr>
 </table>
@@ -134,11 +148,11 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+  <img src="https://raw.githubusercontent.com/Djason16/Djason16/summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/Djason16/Djason16/summary-cards/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Djason16/Djason16/summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%" />
 </p>
 
 ---
