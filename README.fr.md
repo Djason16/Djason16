@@ -19,6 +19,9 @@
   <a href="https://www.malt.fr/profile/djasonchery"><img src="https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt" /></a>
   <a href="mailto:contact@djason-chery.dev"><img src="https://img.shields.io/badge/E--mail-52616B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://wa.me/33758204726"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/djasonchery/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@djasonchery.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61596350354677"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
