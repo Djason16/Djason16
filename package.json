@@ -1,0 +1,12 @@
+{
+  "name": "djason16-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-assets.mjs"
+  },
+  "devDependencies": {
+    "fontkitten": "^1.0.3",
+    "sharp": "^0.35.5"
+  }
+}
