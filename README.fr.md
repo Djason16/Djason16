@@ -1,7 +1,7 @@
 <a href="https://djason-chery.dev" title="Ouvrir mon site djason-chery.dev"><img src="assets/hero-fr.png" alt="Djason CHERY, développeur web full-stack et monteur compositing et VFX : je crée des sites, des applications web et des outils de développement, et je fais du montage et du compositing vidéo. Basé en France, freelance, à distance ou sur place." title="Djason CHERY · Développeur web full-stack · Compositing &amp; VFX" width="100%" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=1400&amp;color=7EE6A8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=44&amp;letterSpacing=0.08em&amp;lines=D%C3%A9veloppeur+web+full-stack+%C2%B7+Compositing+%26+VFX;Sites%2C+applications+web+et+outils%2C+de+A+%C3%A0+Z;Cr%C3%A9ateur+de+DC+Scaffold%2C+DC+Prospect+et+DC+Sentinel;Disponible+en+freelance+%C2%B7+%C3%80+distance+ou+sur+place" alt="Développeur web full-stack · Compositing &amp; VFX · Sites, applications web et outils, de A à Z · Créateur de DC Scaffold, DC Prospect et DC Sentinel · Disponible en freelance · À distance ou sur place" title="Développeur web full-stack · Compositing &amp; VFX · Sites, applications web et outils, de A à Z · Créateur de DC Scaffold, DC Prospect et DC Sentinel · Disponible en freelance · À distance ou sur place" />
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=1400&amp;color=7EE6A8&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=44&amp;letterSpacing=0.08em&amp;lines=D%C3%A9veloppeur+web+full-stack+%C2%B7+Compositing+%26+VFX;Sites%2C+applications+web+et+outils%2C+de+A+%C3%A0+Z;Cr%C3%A9ateur+de+DC+Scaffold%2C+DC+Prospect%2C+DC+Sentinel+et+DC+Audit;Disponible+en+freelance+%C2%B7+%C3%80+distance+ou+sur+place" alt="Développeur web full-stack · Compositing &amp; VFX · Sites, applications web et outils, de A à Z · Créateur de DC Scaffold, DC Prospect, DC Sentinel et DC Audit · Disponible en freelance · À distance ou sur place" title="Développeur web full-stack · Compositing &amp; VFX · Sites, applications web et outils, de A à Z · Créateur de DC Scaffold, DC Prospect, DC Sentinel et DC Audit · Disponible en freelance · À distance ou sur place" />
 </p>
 
 <p align="center">
@@ -19,6 +19,13 @@
   <a href="https://www.facebook.com/profile.php?id=61596350354677" title="Ma page Facebook"><img src="https://img.shields.io/badge/Facebook-111417?style=for-the-badge&amp;logo=facebook&amp;logoColor=7ee6a8" alt="Facebook" title="Ma page Facebook" /></a>
 </p>
 
+<p align="center">
+  <a href="https://dev.to/djasonchery_dev" title="Mon profil dev.to"><img src="https://img.shields.io/badge/dev.to-111417?style=for-the-badge&amp;logo=devdotto&amp;logoColor=7ee6a8" alt="dev.to" title="Mon profil dev.to" /></a>
+  <a href="https://www.producthunt.com/@djasonchery_dev" title="Mon profil Product Hunt"><img src="https://img.shields.io/badge/Product%20Hunt-111417?style=for-the-badge&amp;logo=producthunt&amp;logoColor=7ee6a8" alt="Product Hunt" title="Mon profil Product Hunt" /></a>
+  <a href="https://www.indiehackers.com/djasonchery_dev" title="Mon profil Indie Hackers"><img src="https://img.shields.io/badge/Indie%20Hackers-111417?style=for-the-badge&amp;logo=indiehackers&amp;logoColor=7ee6a8" alt="Indie Hackers" title="Mon profil Indie Hackers" /></a>
+  <a href="https://www.reddit.com/user/djasonchery_dev/" title="Mon profil Reddit"><img src="https://img.shields.io/badge/Reddit-111417?style=for-the-badge&amp;logo=reddit&amp;logoColor=7ee6a8" alt="Reddit" title="Mon profil Reddit" /></a>
+</p>
+
 <br />
 
 <img src="assets/section-01-about-fr.png" alt="01 · À propos : qui je suis" title="01 · À propos" width="100%" />
@@ -26,7 +33,8 @@
 - 💻 Je réalise des **sites et applications web** de A à Z : design, front, API, base de données, paiements, SEO et hébergement
 - 🧰 J'ai créé **[DC Scaffold](https://tools.djason-chery.dev/fr/scaffold/ "DC Scaffold sur le site des outils DC")**, un outil qui génère en quelques minutes un projet web complet avec le front et le back end de ton choix, sur Windows, macOS et Linux
 - 📨 Et **[DC Prospect](https://tools.djason-chery.dev/fr/prospect/ "DC Prospect sur le site des outils DC")**, une application de bureau qui trouve des entreprises locales et fait ma prospection par e-mail, écrite par une IA intégrée et envoyée seulement après mon accord
-- 🛡️ Et enfin **[DC Sentinel](https://tools.djason-chery.dev/fr/sentinel/ "DC Sentinel sur le site des outils DC")**, une application de bureau qui surveille mes sites et sauvegarde leurs bases de données chaque semaine, même ordinateur éteint ; les trois sont gratuits avec une offre Pro, sur **[tools.djason-chery.dev](https://tools.djason-chery.dev/fr/ "Les outils DC")**
+- 🛡️ Puis **[DC Sentinel](https://tools.djason-chery.dev/fr/sentinel/ "DC Sentinel sur le site des outils DC")**, une application de bureau qui surveille mes sites et sauvegarde leurs bases de données chaque semaine, même ordinateur éteint
+- 🔍 Et enfin **[DC Audit](https://tools.djason-chery.dev/fr/audit/ "DC Audit sur le site des outils DC")**, une application de bureau qui audite n'importe quel site en quelques minutes (vitesse, référencement, accessibilité, sécurité, obligations légales françaises) et fait passer ma propre recette avant chaque mise en ligne ; les quatre sont gratuits avec une offre Pro, sur **[tools.djason-chery.dev](https://tools.djason-chery.dev/fr/ "Les outils DC")**
 - 🎬 Je travaille aussi en **post-production audiovisuelle** : montage, compositing, effets visuels, motion design
 - 📫 Disponible pour des missions freelance : **[contact@djason-chery.dev](mailto:contact@djason-chery.dev "M'envoyer un e-mail")**
 
@@ -34,7 +42,7 @@
 
 <img src="assets/section-02-tools-fr.png" alt="02 · Outils DC : mes outils. Gratuits pour commencer, avec une offre Pro, pour Windows, macOS et Linux." title="02 · Outils DC" width="100%" />
 
-Les trois sont gratuits pour commencer, avec une offre Pro sur **[tools.djason-chery.dev](https://tools.djason-chery.dev/fr/ "Les outils DC")** ; les installateurs pour Windows, macOS et Linux sont dans **[dc-releases](https://github.com/Djason16/dc-releases/releases "Les installateurs des outils DC")**.
+Les quatre sont gratuits pour commencer, avec une offre Pro sur **[tools.djason-chery.dev](https://tools.djason-chery.dev/fr/ "Les outils DC")** ; les installateurs pour Windows, macOS et Linux sont dans **[dc-releases](https://github.com/Djason16/dc-releases/releases "Les installateurs des outils DC")**.
 
 <table>
 <!-- DC Scaffold -->
@@ -92,6 +100,25 @@ Les trois sont gratuits pour commencer, avec une offre Pro sur **[tools.djason-c
 <p>
 <a href="https://tools.djason-chery.dev/fr/sentinel/" title="DC Sentinel sur le site des outils DC"><img src="https://img.shields.io/badge/Page%20de%20l%27outil%20%E2%86%92-fab634?style=for-the-badge" alt="Page de l'outil" title="DC Sentinel sur le site des outils DC" /></a>
 <a href="https://github.com/Djason16/dc-releases/releases?q=sentinel&amp;expanded=true" title="Télécharger la dernière version de DC Sentinel"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20%E2%86%93-111417?style=for-the-badge&amp;logo=github&amp;logoColor=eef1f3" alt="Télécharger" title="Télécharger la dernière version de DC Sentinel" /></a>
+</p>
+</td>
+</tr>
+<!-- DC Audit -->
+<tr>
+<td width="96" align="center" valign="top"><a href="https://tools.djason-chery.dev/fr/audit/" title="DC Audit sur le site des outils DC"><img src="assets/icons/audit.png" alt="DC Audit icône" title="DC Audit" width="64" /></a></td>
+<td valign="top">
+<a href="https://tools.djason-chery.dev/fr/audit/" title="DC Audit sur le site des outils DC"><img src="https://img.shields.io/badge/DC-AUDIT-a78bfa?style=for-the-badge&amp;labelColor=111417" alt="DC Audit" title="DC Audit" /></a><br />
+<b>Audit et recette</b>
+<p>Application de bureau pour Windows, macOS et Linux qui audite n'importe quel site en quelques minutes (gratuit : 5 audits par mois) : vitesse, référencement, accessibilité, sécurité et obligations légales françaises, testés de l'extérieur dans le Chromium intégré à l'application (Lighthouse, axe-core), puis ta propre recette avant la mise en ligne, avec un rapport PDF clair à ta marque, les concurrents comparés et les notes suivies dans le temps.</p>
+<img src="https://img.shields.io/badge/Electron-111417?style=flat-square&amp;logo=electron&amp;logoColor=a78bfa" alt="Electron" title="Electron" />
+<img src="https://img.shields.io/badge/TypeScript-111417?style=flat-square&amp;logo=typescript&amp;logoColor=a78bfa" alt="TypeScript" title="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-111417?style=flat-square&amp;logo=nodedotjs&amp;logoColor=a78bfa" alt="Node.js" title="Node.js" />
+<img src="https://img.shields.io/badge/Lighthouse-111417?style=flat-square&amp;logo=lighthouse&amp;logoColor=a78bfa" alt="Lighthouse" title="Lighthouse" />
+<img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-111417?style=flat-square" alt="Windows · macOS · Linux" title="Windows · macOS · Linux" />
+<img src="https://img.shields.io/badge/Gratuit%20%2B%20Pro-111417?style=flat-square" alt="Gratuit + Pro" title="Gratuit + Pro" />
+<p>
+<a href="https://tools.djason-chery.dev/fr/audit/" title="DC Audit sur le site des outils DC"><img src="https://img.shields.io/badge/Page%20de%20l%27outil%20%E2%86%92-a78bfa?style=for-the-badge" alt="Page de l'outil" title="DC Audit sur le site des outils DC" /></a>
+<a href="https://github.com/Djason16/dc-releases/releases?q=audit&amp;expanded=true" title="Télécharger la dernière version de DC Audit"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20%E2%86%93-111417?style=for-the-badge&amp;logo=github&amp;logoColor=eef1f3" alt="Télécharger" title="Télécharger la dernière version de DC Audit" /></a>
 </p>
 </td>
 </tr>
